@@ -6,7 +6,7 @@
 # Obtain the target location via the link
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
+Concept behind hack4lx_Location_Finder_Phone is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.
 
 * Longitude
 * Latitude
@@ -33,7 +33,7 @@ Along with Location Information we also get **Device Information** without any p
 
 * Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
 
-* Seeker uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so Seeker works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, Seeker fallbacks to IP Geolocation or it will look for Cached Coordinates.  
+* hack4lx_Location_Finder_Phone uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so hack4lx_Location_Finder_Phone works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, Seeker fallbacks to IP Geolocation or it will look for Cached Coordinates.  
 
 * Generally if a user accepts location permsission, Accuracy of the information recieved is **accurate to approximately 30 meters**, Accuracy Depends on the Device.
 
@@ -41,11 +41,11 @@ Along with Location Information we also get **Device Information** without any p
 
 ## Templates
 
-You can choose a template which will be used by seeker from these : 
+You can choose a template which will be used by hack4lx_Location_Finder_Phone from these : 
 
 * NearYou
-* Google Drive (Suggested by @Akaal_no_one)
-* WhatsApp (Suggested by @Dazmed707)
+* Google Drive 
+* WhatsApp 
 * Telegram
 
 ## Tested On :
@@ -56,7 +56,6 @@ You can choose a template which will be used by seeker from these :
 * Kali Nethunter
 * Termux
 * Parrot OS
-
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
