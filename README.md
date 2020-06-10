@@ -6,56 +6,14 @@
 # Obtain the target location via the link
 </p>
 
-Concept behind hack4lx_Location_Finder_Phone is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.
+Hello friends
+The script you see
+With it, you can easily find the location of different targets
+ To receive the password, send a message to my telegram
+Just pay attention to the instructional video
 
-* Longitude
-* Latitude
-* Accuracy
-* Altitude - Not always available
-* Direction - Only available if user is moving
-* Speed - Only available if user is moving
-
-Along with Location Information we also get **Device Information** without any permissions :
-
-* Operating System
-* Platform
-* Number of CPU Cores
-* Amount of RAM - Approximate Results
-* Screen Resolution
-* GPU information
-* Browser Name and Version
-* Public IP Address
-* IP Address Reconnaissance
 
 **This tool is a Proof of Concept and is for Educational Purposes Only, hack4lx_Location_Finder_Phone shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
-
-## How is this Different from IP GeoLocation
-
-* Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
-
-* hack4lx_Location_Finder_Phone uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so hack4lx_Location_Finder_Phone works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, hack4lx_Location_Finder_Phone fallbacks to IP Geolocation or it will look for Cached Coordinates.  
-
-* Generally if a user accepts location permsission, Accuracy of the information recieved is **accurate to approximately 30 meters**, Accuracy Depends on the Device.
-
-**Note** : On iPhone due to some reason location accuracy is approximately 65 meters.
-
-## Templates
-
-You can choose a template which will be used by hack4lx_Location_Finder_Phone from these : 
-
-* NearYou
-* Google Drive 
-* WhatsApp 
-* Telegram
-
-## Tested On :
-
-* Kali Linux
-* BlackArch Linux
-* Ubuntu
-* Kali Nethunter
-* Termux
-* Parrot OS
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
@@ -67,7 +25,7 @@ You can choose a template which will be used by hack4lx_Location_Finder_Phone fr
 
 Description 👀
 
-Title 📌  hack4lx_Fake_instagram
+Title 📌  hack4lx_Location_Finder_Phone
 
 💀 Made by ☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️
 
