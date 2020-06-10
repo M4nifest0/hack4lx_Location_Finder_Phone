@@ -27,13 +27,13 @@ Along with Location Information we also get **Device Information** without any p
 * Public IP Address
 * IP Address Reconnaissance
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+**This tool is a Proof of Concept and is for Educational Purposes Only, hack4lx_Location_Finder_Phone shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
 ## How is this Different from IP GeoLocation
 
 * Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
 
-* hack4lx_Location_Finder_Phone uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so hack4lx_Location_Finder_Phone works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, Seeker fallbacks to IP Geolocation or it will look for Cached Coordinates.  
+* hack4lx_Location_Finder_Phone uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so hack4lx_Location_Finder_Phone works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, hack4lx_Location_Finder_Phone fallbacks to IP Geolocation or it will look for Cached Coordinates.  
 
 * Generally if a user accepts location permsission, Accuracy of the information recieved is **accurate to approximately 30 meters**, Accuracy Depends on the Device.
 
