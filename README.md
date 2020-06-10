@@ -35,7 +35,7 @@ Aate ♾ 2020 May
 
 Version 👁‍🗨 1.0.0
 
-Usage 👌 Host| SSL | Bot Telegram  https://api.telegram.org/bot../setwebhook?url=https://yoursite.com/hack4lx_Fake_instagram.php
+Usage 👌 license
 
 Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
 
